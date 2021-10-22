@@ -1,0 +1,28 @@
+body {
+    background-color: lightgrey;
+    text-align: center;
+    font-family: fantasy;
+    font-size: larger;
+    font-weight: bold;
+    
+
+}
+
+img {
+    border: 5px solid rgb(10, 8, 8);
+}
+
+img {
+    width: 25%; height: 15%;
+}
+
+#words {
+ width: 15px;
+ height: 30px;
+color: limegreen;
+text-align: center;
+}
+
+.words2 {
+    vertical-align: middle;
+}
